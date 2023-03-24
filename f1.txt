@@ -1,4 +1,0 @@
-this is f1 txt file
-
-There was new changes happened inside the f1.txt file
-
